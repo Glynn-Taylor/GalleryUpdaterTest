@@ -1,7 +1,6 @@
-{"LastUpdated":"2024-05-10T17:42:17.1283883+01:00","0":{"ID":"0","Visible":"True","Description":""Cute art"
+{"LastUpdated":"2024-05-10T17:49:39.2055567+01:00","0":{"ID":"0","Visible":"True","Description":""Cute art"
 Unity on vertices
 9in x 9in monster
-hehehaha
 
 By Spoonie
 Discord: probablyspoonie
