@@ -1,4 +1,4 @@
-{"LastUpdated":"2024-05-19T00:53:43.9782028+01:00","25":{"ID":"25","Visible":"True","Description":"\"Cute art\"
+{"LastUpdated":"2024-05-19T00:55:01.4561577+01:00","25":{"ID":"25","Visible":"True","Description":"\"Cute art\"
 Unity on vertices
 9in x 9in monster
 
@@ -264,17 +264,7 @@ www.onlyspoons.com
 
 www.printmyspoon/gallery.com
 PRINTS AVAILABLE AT
-THE LINK ABOVE","Position0":"0,0.575","Scale0":"0.1,0.1","Position1":"0,2.02","Scale1":"2.25,2.25"},"2":{"ID":"2","Visible":"True","Description":"\"Cute art\"
-Unity on vertices
-9in x 9in monster
-
-By Spoonie
-Discord: probablyspoonie
-www.onlyspoons.com
-
-www.printmyspoon/gallery.com
-PRINTS AVAILABLE AT
-THE LINK ABOVE","Position0":"0,0.575","Scale0":"0.1,0.1","Position1":"-0.1935801,2.621187","Scale1":"1.059432,2.312981"},"8":{"ID":"8","Visible":"True","Description":"\"Cute art\"
+THE LINK ABOVE","Position0":"0,0.575","Scale0":"0.1,0.1","Position1":"0,2.02","Scale1":"2.25,2.25"},"2":{"ID":"2","Visible":"True","Description":"Some Test Text","Position0":"0,0.575","Scale0":"0.1,0.1","Position1":"-0.1935801,2.621187","Scale1":"1.059432,2.312981"},"8":{"ID":"8","Visible":"True","Description":"\"Cute art\"
 Unity on vertices
 9in x 9in monster
 
