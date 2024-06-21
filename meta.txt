@@ -1,4 +1,4 @@
-{"LastUpdated":"2024-06-21T19:38:18.5851531+01:00","19":{"ID":"19","Visible":"True","Description":"\"Cute art\"
+{"LastUpdated":"2024-06-21T19:40:04.8671869+01:00","19":{"ID":"19","Visible":"True","Description":"\"Cute art\"
 Unity on vertices
 9in x 9in monster
 
@@ -533,18 +533,18 @@ Hey this is a pretty cool board rite!
 
 There should probably be some text here :3
 
-Spoonie was here","Position0":"0,1.422","Scale0":"0.01,0.01"},"81":{"ID":"81","Visible":"True","Description":"Info Board
+Spoonie was here :)","Position0":"0,1.422","Scale0":"0.01,0.01","Position1":"0,0","Scale1":"1,1"},"81":{"ID":"81","Visible":"True","Description":"Info Board
 
 Hey this is a pretty cool board rite!
 
 
 
 
-There should probably be some text here :3","Position0":"0,1.422","Scale0":"0.01,0.01"},"83":{"ID":"83","Visible":"True","Description":"Info Board
+There should probably be some text here :3","Position0":"0,1.422","Scale0":"0.01,0.01","Position1":"0,0","Scale1":"1,1"},"83":{"ID":"83","Visible":"True","Description":"Info Board
 
 Hey this is a pretty cool board rite!
 
 
 
 
-There should probably be some text here :3","Position0":"0,1.422","Scale0":"0.01,0.01"}}
+There should probably be some text here :3","Position0":"0,1.422","Scale0":"0.01,0.01","Position1":"0,0","Scale1":"1,1"}}
